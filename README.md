@@ -1,2 +1,2 @@
-# tracker-app
-A simple trello like app built in react native for both android and ios
+# tracker-app(will come up with a better name)
+A simple money manager app built in react native for both android and ios
